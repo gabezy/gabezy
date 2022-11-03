@@ -17,6 +17,6 @@ const gabezy {
 
 <h3>You can reach me through this social media</h3>
 <p align="center">
-<a href= "www.linkedin.com/in/gabriel--moreira"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"/></a>
+<a href= "www.linkedin.com/in/gabriel--moreira"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="height: 30px"/></a>
 <a href= "https://github.com/gabezy"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"/></a>
 </p>
