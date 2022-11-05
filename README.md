@@ -6,7 +6,7 @@
 ### A little more about me
 
 ```javascript
-const gabezy {
+const gabezy = {
 	"code": [HTML, CSS, Python],
 	"tools": [Node, Bash, Pandas, Git, GitHub],
     "learning": [JavaScript, React, Typescript, SQL]
