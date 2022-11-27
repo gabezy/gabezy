@@ -7,9 +7,9 @@
 
 ```javascript
 const gabezy = {
-	code: [HTML, CSS, Python],
+	code: [HTML, CSS, JavaScript, Python],
 	tools: [Node, Bash, Pandas, Git, GitHub],
-    learning: [JavaScript, React, Typescript, SQL]
+    learning: [React, Typescript, SQL]
 }
 ```
 
