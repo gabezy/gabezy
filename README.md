@@ -1,6 +1,6 @@
 <h2> Hi there, my name is Gabriel - aka <b>gabezy</b> </h2>
 
-<p><em>Learning Full-stack at <a href="https://estacio.br/">Estácio</a>
+<p><em>Learning systems analysis and development at <a href="https://www.uniceub.br/">CEUB</a>
 </br>Check out my <a href="https://gabrielmdev.com">portfolio</a>
 
 ### A little more about me
