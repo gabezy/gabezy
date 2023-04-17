@@ -2,14 +2,15 @@
 
 <p><em>Learning systems analysis and development at <a href="https://www.uniceub.br/">CEUB</a>
 </br>Check out my <a href="https://gabrielmdev.com">portfolio</a>
+</br><strong>Neovim User</strong>
 
 ### A little more about me
 
 ```javascript
 const gabezy = {
-	code: [HTML, CSS, SASS, JavaScript, Python, Typescript, SQL],
+	code: [HTML, CSS, SASS, JavaScript, Python, Typescript, SQL, Java],
 	tools: [React, Node, Bash, Pandas, Git, GitHub],
-    learning: [Java, Spring]
+    learning: [Spring, Next.js, Docker, CI/CD]
 }
 ```
 
