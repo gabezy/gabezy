@@ -2,7 +2,7 @@
 
 <p><em>Learning systems analysis and development at <a href="https://www.uniceub.br/">CEUB</a>
 </br>Check out my <a href="https://gabrielmdev.com">portfolio</a>
-</br><strong>Neovim User</strong>
+<p>I use vim and ubuntu btw</p>
 
 ### A little more about me
 
