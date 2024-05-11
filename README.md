@@ -1,24 +1,37 @@
-<h2> Hi there, my name is Gabriel - aka <b>gabezy</b> </h2>
+# Hi there, my name is Gabriel Moreira, also known as gabezy
 
-<p><em>Learning systems analysis and development at <a href="https://www.uniceub.br/">CEUB</a>
-</br>Check out my <a href="https://gabrielmdev.com">portfolio</a>
-<p>I use vim and ubuntu btw</p>
+## Little obout me 
 
-### A little more about me
+💻 Back-end developer<br>
+🧑‍💻 Currently studying Systems Analysis and Development at [ceub](https://www.uniceub.br/)<br>
+🧑‍💻 Check out my [protfolio](https://gabrielmdev.com) <br>
+📚 Passionate about technology and its areas, especially development and security, but i love exploring new fields such as exact science, history and finance <br>
+🏞️ Love hiking, visiting waterfalls and watching movies/series... <br>
+🐱 Love animals, that's why i have 5 dogs...
+
+## Social Medias
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/gabriel-moreira-dev1/?locale=en_US) &nbsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabrielmoreira2705@gmail.com) &nbsp;
+[![X Badge](https://img.shields.io/badge/Moreira-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Imoreiraog) &nbsp;
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://gabrielmdev.com/) &nbsp;
+
+
+## Some of my Technical Skills
 
 ```javascript
 const gabezy = {
-	code: [HTML, CSS, SASS, JavaScript, Python, Typescript, SQL, Java],
-	tools: [React, Node, Bash, Pandas, Git, GitHub],
-    learning: [Spring, Next.js, Docker, CI/CD]
+	code: [
+        HTML, CSS, SASS, Typescript, 
+        Python, Java, Nodejs, SQL/NoSQL
+    ],
+	tools: [
+        Linux, Bash, MongoDB, PostgreSQL, 
+        MySQL, Pandas, Git, Docker 
+    ],
+    Frameworks: [React, Spring, Nestjs, Nextjs, Angular, React Native]
 }
 ```
 
+![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabezy&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-
-<h3>You can reach me through this social media</h3>
-<p align="center" style="display: flex; gap: 20px;">
-    <a href="www.linkedin.com/in/gabriel--moreira"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="40" style="margin-right: 10px"></a>
-    <a href="mailto:gabrielmoreira2705@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="40"></a>
-    <a href="https://twitter.com/Imoreiraog"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="40"></a>
-</p>
+![Gabezy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabezy&show_icons=true&theme=radical)
