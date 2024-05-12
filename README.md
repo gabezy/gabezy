@@ -20,15 +20,18 @@
 
 ```javascript
 const gabezy = {
-	code: [
-        HTML, CSS, SASS, Typescript, 
-        Python, Java, Nodejs, SQL/NoSQL
-    ],
-	tools: [
-        Linux, Bash, MongoDB, PostgreSQL, 
-        MySQL, Pandas, Git, Docker 
-    ],
-    Frameworks: [React, Spring, Nestjs, Nextjs, Angular, React Native]
+  code: [
+    "HTML", "CSS", "SASS", "TypeScript",
+    "Python", "Java", "Nodejs", "SQL/NoSQL"
+  ],
+  tools: [
+    "Linux", "Bash", "MongoDB", "PostgreSQL",
+    "MySQL", "Pandas", "Git", "Docker", "Vim"
+  ],
+  frameworks: [
+    "React", "React Native", "Spring", "Nestjs",
+    "Nextjs", "Angular", "FastAPI"
+  ]
 }
 ```
 
