@@ -18,20 +18,33 @@
 
 ## Some of my Technical Skills
 
-```javascript
-const gabezy = {
-  code: [
-    "HTML", "CSS", "SASS", "TypeScript",
-    "Python", "Java", "Nodejs", "SQL/NoSQL"
-  ],
-  tools: [
-    "Linux", "Bash", "MongoDB", "PostgreSQL",
-    "MySQL", "Pandas", "Git", "Docker", "Vim"
-  ],
-  frameworks: [
-    "React", "React Native", "Spring", "Nestjs",
-    "Nextjs", "Angular", "FastAPI"
-  ]
+```java
+package me.programmer.description
+
+import lombok.Getter;
+import lombok.Setter;
+
+@Setter
+@Getter
+public class Gabezy {
+    private String[] code = new String[]{
+            "Java", "Nodejs", "TypeScript", "Python",
+            "SQL/NoSQL", "CSS", "HTML", "SASS"
+    };
+
+    private String[] tools = new String[]{
+            "Linux", "Bash", "MongoDB", "PostgreSQL",
+            "MySQL", "Pandas", "Git", "Docker"
+    };
+
+    private String[] frameworks = new String[]{
+            "React", "React Native", "Spring", "Nestjs",
+            "Nextjs", "Angular", "FastAPI"
+    };
+    
+    public void greetings() {
+        System.out.println("Hello visitor");
+    }
 }
 ```
 
