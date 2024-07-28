@@ -1,8 +1,8 @@
-# Hi there, my name is Gabriel Moreira, also known as gabezy
+# 👋 Hi there, welcome to my Github 
 
-## Little obout me 
+## About
 
-💻 Back-end developer<br>
+💻 Sofware Developer<br>
 🧑‍💻 Currently studying Systems Analysis and Development at [ceub](https://www.uniceub.br/)<br>
 🧑‍💻 Check out my [protfolio](https://gabrielmdev.com) <br>
 📚 Passionate about technology and its areas, especially development and security, but i love exploring new fields such as exact science, history and finance <br>
