@@ -3,11 +3,9 @@
 ## About
 
 💻 Sofware Developer<br>
-🧑‍💻 Currently studying Systems Analysis and Development at [ceub](https://www.uniceub.br/)<br>
+🧑‍💻 Systems Analysis and Development<br>
 🧑‍💻 Check out my [protfolio](https://gabrielmdev.com) <br>
 📚 Passionate about technology and its areas, especially development and security, but i love exploring new fields such as exact science, history and finance <br>
-🏞️ Love hiking, visiting waterfalls and watching movies/series... <br>
-🐱 Love animals, that's why i have 5 dogs...
 
 ## Social Medias
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/gabriel-moreira-dev1/?locale=en_US) &nbsp;
@@ -27,6 +25,7 @@ import lombok.Setter;
 @Setter
 @Getter
 public class Gabezy {
+
     private String[] code = new String[]{
             "Java", "Nodejs", "TypeScript", "Python",
             "SQL/NoSQL", "CSS", "HTML", "SASS"
@@ -38,8 +37,8 @@ public class Gabezy {
     };
 
     private String[] frameworks = new String[]{
-            "React", "React Native", "Spring", "Nestjs",
-            "Nextjs", "Angular", "FastAPI"
+            "Angular", "Spring", "Spring Boot" "React Native",
+            "Nestjs", "Nextjs", "React", "FastAPI"
     };
     
     public void greetings() {
