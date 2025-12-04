@@ -27,8 +27,8 @@ import lombok.Setter;
 public class Gabezy {
 
     private String[] code = new String[]{
-            "Java", "Nodejs", "TypeScript", "Python",
-            "SQL/NoSQL", "CSS", "HTML", "SASS"
+            "Java", "GO", "Nodejs", "TypeScript", "Python",
+            "SQL/NoSQL", "CSS", "HTML"
     };
 
     private String[] tools = new String[]{
